@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ADChowdary
-- 👀 I’m interested in computer
+- 👀 I’m interested in c language
 - 🌱 I’m currently learning web desining
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by mail adchowdary0001@gmail.com
